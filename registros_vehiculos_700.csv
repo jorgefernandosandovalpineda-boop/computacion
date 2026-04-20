@@ -1,0 +1,701 @@
+﻿ID_Vehiculo,Marca,Modelo,Año,Color,Combustible,Transmisión,Kilometraje,Precio_USD
+VEH-0001,Honda,Accord,2024,Blanco,Diésel,Manual,302,60217
+VEH-0002,Toyota,Yaris,2016,Blanco,Eléctrico,Automática,120796,31861
+VEH-0003,Mercedes-Benz,Clase C,2012,Azul,Eléctrico,Manual,96162,66003
+VEH-0004,Mercedes-Benz,Clase C,2022,Rojo,Gasolina,Manual,27976,73267
+VEH-0005,BMW,Series 3,2011,Verde,Eléctrico,Automática,61193,49208
+VEH-0006,Chevrolet,Captiva,2019,Gris Plata,Gasolina,Manual,76285,26314
+VEH-0007,BMW,X5,2023,Negro,Gasolina,Automática,1633,58740
+VEH-0008,BMW,Series 5,2024,Gris Plata,Diésel,Manual,3475,51250
+VEH-0009,Ford,Ranger,2024,Azul,Diésel,Manual,1824,62142
+VEH-0010,Honda,Accord,2012,Azul,Diésel,Manual,52520,37300
+VEH-0011,Mercedes-Benz,GLC,2010,Negro,Eléctrico,Manual,170718,51019
+VEH-0012,Nissan,X-Trail,2016,Gris Plata,Eléctrico,Manual,84615,23072
+VEH-0013,Honda,HR-V,2022,Gris Plata,Híbrido,Manual,88553,34391
+VEH-0014,BMW,X3,2016,Azul,Híbrido,Manual,143554,54655
+VEH-0015,Ford,Focus,2010,Verde,Híbrido,Manual,29096,43693
+VEH-0016,Mercedes-Benz,GLC,2020,Verde,Eléctrico,Automática,105350,41301
+VEH-0017,Chevrolet,Silverado,2020,Gris Plata,Diésel,Manual,55937,37218
+VEH-0018,Chevrolet,Tracker,2016,Blanco,Eléctrico,Automática,65887,29305
+VEH-0019,Hyundai,Tucson,2013,Azul,Híbrido,Automática,30017,42045
+VEH-0020,Chevrolet,Onix,2024,Rojo,Eléctrico,Manual,4308,59262
+VEH-0021,Kia,Picanto,2022,Blanco,Diésel,Manual,107152,33136
+VEH-0022,Toyota,Corolla,2014,Verde,Híbrido,Manual,21785,23240
+VEH-0023,Nissan,Qashqai,2013,Verde,Eléctrico,Manual,123137,15142
+VEH-0024,Volkswagen,Golf,2024,Gris Plata,Híbrido,Manual,1426,54743
+VEH-0025,BMW,Series 5,2021,Verde,Diésel,Automática,184598,76894
+VEH-0026,BMW,X5,2021,Rojo,Híbrido,Automática,68545,92789
+VEH-0027,Kia,Sportage,2016,Gris Plata,Híbrido,Automática,129464,51418
+VEH-0028,Honda,CR-V,2021,Negro,Gasolina,Manual,168292,63748
+VEH-0029,BMW,Series 5,2022,Azul,Diésel,Manual,13162,77185
+VEH-0030,Hyundai,Tucson,2023,Blanco,Eléctrico,Manual,2176,41610
+VEH-0031,BMW,X5,2017,Negro,Eléctrico,Automática,189290,54522
+VEH-0032,Mercedes-Benz,GLC,2015,Blanco,Híbrido,Automática,9788,58857
+VEH-0033,Kia,Rio,2024,Azul,Gasolina,Manual,4207,18410
+VEH-0034,Chevrolet,Tracker,2012,Azul,Diésel,Automática,158746,28783
+VEH-0035,Volkswagen,Tiguan,2020,Negro,Diésel,Manual,127921,37792
+VEH-0036,Volkswagen,Jetta,2010,Negro,Eléctrico,Automática,97525,63200
+VEH-0037,Toyota,Camry,2024,Blanco,Gasolina,Manual,2599,16868
+VEH-0038,Nissan,Versa,2021,Negro,Híbrido,Automática,97986,50510
+VEH-0039,Toyota,RAV4,2018,Azul,Híbrido,Automática,183436,16368
+VEH-0040,Kia,Sportage,2021,Azul,Eléctrico,Automática,107987,40973
+VEH-0041,Nissan,Versa,2016,Gris Plata,Híbrido,Manual,33861,33639
+VEH-0042,Honda,Fit,2011,Verde,Eléctrico,Manual,102329,58598
+VEH-0043,Ford,F-150,2010,Verde,Eléctrico,Manual,51074,38347
+VEH-0044,Mercedes-Benz,GLC,2019,Blanco,Gasolina,Automática,44563,91170
+VEH-0045,Hyundai,Elantra,2014,Negro,Gasolina,Automática,121076,53273
+VEH-0046,Nissan,X-Trail,2016,Azul,Diésel,Automática,15073,25448
+VEH-0047,Ford,F-150,2016,Verde,Eléctrico,Manual,116248,61301
+VEH-0048,Honda,Civic,2013,Gris Plata,Híbrido,Automática,27339,54989
+VEH-0049,Ford,Ranger,2022,Verde,Híbrido,Automática,38185,46276
+VEH-0050,Ford,Explorer,2019,Verde,Híbrido,Automática,46650,32612
+VEH-0051,Toyota,RAV4,2016,Blanco,Eléctrico,Automática,180143,59489
+VEH-0052,Chevrolet,Captiva,2016,Azul,Gasolina,Automática,176835,35682
+VEH-0053,Mercedes-Benz,GLE,2012,Verde,Eléctrico,Automática,182580,68309
+VEH-0054,Toyota,Corolla,2017,Verde,Eléctrico,Manual,128224,46821
+VEH-0055,Toyota,Camry,2022,Rojo,Gasolina,Manual,106274,17129
+VEH-0056,Volkswagen,Polo,2012,Rojo,Gasolina,Automática,130967,33210
+VEH-0057,BMW,Series 5,2024,Gris Plata,Diésel,Manual,1254,48766
+VEH-0058,Honda,CR-V,2023,Verde,Gasolina,Manual,3861,28255
+VEH-0059,Nissan,Frontier,2023,Gris Plata,Gasolina,Automática,855,35263
+VEH-0060,Ford,F-150,2019,Negro,Diésel,Manual,154521,55624
+VEH-0061,Hyundai,Elantra,2016,Rojo,Gasolina,Automática,40914,41430
+VEH-0062,Chevrolet,Tracker,2021,Blanco,Eléctrico,Manual,45581,57967
+VEH-0063,BMW,Series 1,2018,Azul,Gasolina,Manual,150039,88828
+VEH-0064,Mercedes-Benz,Clase C,2012,Verde,Híbrido,Manual,117104,58851
+VEH-0065,Mercedes-Benz,Clase E,2024,Rojo,Gasolina,Manual,810,63893
+VEH-0066,Nissan,X-Trail,2020,Gris Plata,Gasolina,Manual,178818,55069
+VEH-0067,Kia,Sorento,2017,Negro,Eléctrico,Manual,90627,36664
+VEH-0068,Volkswagen,Amarok,2014,Verde,Híbrido,Manual,52918,32814
+VEH-0069,BMW,X3,2018,Negro,Gasolina,Automática,164220,76769
+VEH-0070,Hyundai,Kona,2024,Blanco,Diésel,Manual,3006,62613
+VEH-0071,Volkswagen,Jetta,2020,Verde,Diésel,Manual,17154,28686
+VEH-0072,Chevrolet,Onix,2011,Negro,Híbrido,Automática,50745,24021
+VEH-0073,Hyundai,Elantra,2024,Verde,Eléctrico,Manual,1035,39371
+VEH-0074,Chevrolet,Tracker,2014,Verde,Diésel,Manual,170298,47023
+VEH-0075,Ford,Mustang,2018,Gris Plata,Eléctrico,Manual,184061,53836
+VEH-0076,Chevrolet,Cruze,2017,Blanco,Gasolina,Manual,193395,19556
+VEH-0077,Volkswagen,Golf,2018,Rojo,Diésel,Automática,102321,41962
+VEH-0078,Kia,Rio,2010,Gris Plata,Eléctrico,Manual,16933,16675
+VEH-0079,Volkswagen,Tiguan,2018,Azul,Gasolina,Manual,90830,52888
+VEH-0080,Nissan,Frontier,2013,Verde,Gasolina,Automática,125340,16070
+VEH-0081,Hyundai,Elantra,2011,Gris Plata,Diésel,Automática,33322,44375
+VEH-0082,BMW,X5,2014,Gris Plata,Híbrido,Manual,32581,43174
+VEH-0083,Hyundai,Elantra,2013,Rojo,Diésel,Automática,40627,18020
+VEH-0084,Chevrolet,Onix,2015,Rojo,Gasolina,Automática,33490,61312
+VEH-0085,Toyota,Hilux,2017,Blanco,Eléctrico,Manual,153887,34624
+VEH-0086,BMW,X5,2021,Azul,Gasolina,Manual,127354,69358
+VEH-0087,Volkswagen,Tiguan,2024,Verde,Híbrido,Automática,3933,50196
+VEH-0088,BMW,Series 1,2022,Azul,Eléctrico,Automática,86882,58763
+VEH-0089,Ford,Mustang,2010,Verde,Eléctrico,Manual,198388,52338
+VEH-0090,Toyota,Corolla,2021,Blanco,Diésel,Automática,29718,61437
+VEH-0091,Ford,Focus,2014,Negro,Gasolina,Automática,107965,21207
+VEH-0092,Mercedes-Benz,Clase C,2013,Negro,Diésel,Manual,177888,45993
+VEH-0093,Chevrolet,Silverado,2011,Azul,Eléctrico,Manual,80321,21421
+VEH-0094,Ford,Focus,2019,Verde,Diésel,Automática,85923,24934
+VEH-0095,Ford,Focus,2011,Azul,Eléctrico,Automática,194057,54182
+VEH-0096,Kia,Picanto,2018,Negro,Híbrido,Manual,120751,60197
+VEH-0097,Kia,Picanto,2018,Negro,Eléctrico,Automática,82824,49417
+VEH-0098,Chevrolet,Silverado,2021,Gris Plata,Gasolina,Automática,198022,33589
+VEH-0099,BMW,Series 3,2014,Rojo,Eléctrico,Manual,176516,89243
+VEH-0100,Ford,Ranger,2021,Azul,Gasolina,Automática,167006,45971
+VEH-0101,Volkswagen,Polo,2023,Blanco,Diésel,Manual,3482,31122
+VEH-0102,Ford,Ranger,2011,Rojo,Eléctrico,Manual,84203,53995
+VEH-0103,Hyundai,Tucson,2023,Rojo,Eléctrico,Manual,1478,45184
+VEH-0104,Toyota,Yaris,2014,Gris Plata,Eléctrico,Manual,93679,36480
+VEH-0105,Kia,Sportage,2024,Blanco,Eléctrico,Manual,4420,29279
+VEH-0106,Volkswagen,Amarok,2022,Blanco,Híbrido,Automática,46716,22829
+VEH-0107,Mercedes-Benz,Clase A,2022,Negro,Diésel,Manual,132664,53054
+VEH-0108,Honda,Fit,2018,Verde,Híbrido,Automática,11683,23926
+VEH-0109,Mercedes-Benz,Clase A,2017,Verde,Eléctrico,Automática,197247,45007
+VEH-0110,Toyota,RAV4,2022,Verde,Diésel,Automática,143290,16541
+VEH-0111,Chevrolet,Tracker,2015,Negro,Gasolina,Manual,62274,23352
+VEH-0112,BMW,Series 3,2017,Gris Plata,Híbrido,Automática,156080,59436
+VEH-0113,Toyota,Camry,2013,Negro,Híbrido,Manual,39661,51110
+VEH-0114,Ford,F-150,2012,Rojo,Diésel,Manual,154649,26640
+VEH-0115,Chevrolet,Cruze,2016,Gris Plata,Híbrido,Automática,48185,16561
+VEH-0116,BMW,X3,2017,Blanco,Híbrido,Automática,44857,93558
+VEH-0117,Chevrolet,Onix,2011,Blanco,Gasolina,Automática,78833,55764
+VEH-0118,Hyundai,Kona,2019,Verde,Diésel,Automática,158584,56719
+VEH-0119,Toyota,RAV4,2011,Verde,Diésel,Automática,95613,38325
+VEH-0120,Volkswagen,Tiguan,2015,Azul,Diésel,Automática,12531,64786
+VEH-0121,Ford,F-150,2012,Gris Plata,Diésel,Manual,175650,26992
+VEH-0122,Nissan,Versa,2016,Blanco,Diésel,Automática,164091,20846
+VEH-0123,Ford,Mustang,2024,Negro,Diésel,Manual,4875,33682
+VEH-0124,Toyota,Hilux,2022,Rojo,Diésel,Manual,128943,54791
+VEH-0125,Chevrolet,Cruze,2021,Verde,Eléctrico,Automática,53866,44413
+VEH-0126,Volkswagen,Amarok,2024,Negro,Híbrido,Manual,1816,59037
+VEH-0127,Honda,HR-V,2014,Blanco,Gasolina,Manual,169065,56834
+VEH-0128,Kia,Sportage,2014,Verde,Eléctrico,Automática,99871,61186
+VEH-0129,Nissan,X-Trail,2013,Rojo,Gasolina,Manual,14676,63409
+VEH-0130,Volkswagen,Golf,2021,Verde,Eléctrico,Manual,120467,43578
+VEH-0131,Kia,Sorento,2024,Verde,Diésel,Automática,1116,31301
+VEH-0132,Hyundai,Tucson,2010,Gris Plata,Diésel,Manual,37606,31519
+VEH-0133,Volkswagen,Amarok,2014,Rojo,Diésel,Automática,109644,38398
+VEH-0134,Chevrolet,Tracker,2010,Blanco,Diésel,Automática,64618,43980
+VEH-0135,Toyota,Corolla,2022,Blanco,Híbrido,Manual,178640,44822
+VEH-0136,Kia,Sportage,2020,Verde,Híbrido,Manual,195692,16640
+VEH-0137,BMW,Series 1,2016,Azul,Híbrido,Manual,85218,44481
+VEH-0138,Kia,Cerato,2016,Verde,Diésel,Manual,109816,57982
+VEH-0139,Honda,HR-V,2011,Gris Plata,Híbrido,Manual,185619,63968
+VEH-0140,Hyundai,Tucson,2012,Azul,Híbrido,Automática,152288,46285
+VEH-0141,Ford,Mustang,2023,Rojo,Eléctrico,Manual,1324,59237
+VEH-0142,Chevrolet,Captiva,2020,Blanco,Eléctrico,Manual,160260,27527
+VEH-0143,Kia,Sorento,2021,Azul,Diésel,Automática,78598,62204
+VEH-0144,Volkswagen,Jetta,2019,Gris Plata,Gasolina,Automática,9128,60301
+VEH-0145,Mercedes-Benz,Clase A,2019,Rojo,Gasolina,Manual,24906,77923
+VEH-0146,Kia,Cerato,2011,Negro,Gasolina,Automática,119383,30500
+VEH-0147,Chevrolet,Tracker,2015,Negro,Diésel,Automática,48438,49832
+VEH-0148,Volkswagen,Golf,2022,Gris Plata,Eléctrico,Automática,74148,33797
+VEH-0149,Volkswagen,Amarok,2023,Blanco,Híbrido,Manual,530,36046
+VEH-0150,Volkswagen,Jetta,2020,Gris Plata,Diésel,Automática,10640,17830
+VEH-0151,Honda,Accord,2015,Azul,Diésel,Manual,101105,60676
+VEH-0152,Chevrolet,Onix,2012,Negro,Diésel,Manual,43913,22544
+VEH-0153,Chevrolet,Tracker,2010,Verde,Diésel,Manual,42902,63705
+VEH-0154,Volkswagen,Golf,2020,Verde,Diésel,Manual,90269,56679
+VEH-0155,Chevrolet,Tracker,2016,Blanco,Eléctrico,Manual,136729,64843
+VEH-0156,Hyundai,Elantra,2011,Verde,Eléctrico,Automática,86530,35439
+VEH-0157,Volkswagen,Golf,2020,Blanco,Híbrido,Manual,3959,37151
+VEH-0158,Chevrolet,Cruze,2019,Azul,Gasolina,Automática,60515,15853
+VEH-0159,Kia,Sorento,2012,Verde,Diésel,Manual,74545,31002
+VEH-0160,Nissan,Versa,2019,Rojo,Diésel,Automática,130725,33958
+VEH-0161,Kia,Sportage,2018,Gris Plata,Híbrido,Automática,97509,51242
+VEH-0162,Honda,CR-V,2011,Verde,Diésel,Manual,49351,33286
+VEH-0163,Volkswagen,Jetta,2022,Negro,Eléctrico,Manual,113250,34150
+VEH-0164,Honda,Fit,2018,Blanco,Híbrido,Manual,179380,44129
+VEH-0165,Volkswagen,Golf,2018,Verde,Diésel,Automática,14716,36733
+VEH-0166,Chevrolet,Cruze,2020,Azul,Diésel,Manual,64118,20165
+VEH-0167,Hyundai,Accent,2017,Rojo,Gasolina,Automática,30360,29755
+VEH-0168,Hyundai,Elantra,2012,Blanco,Híbrido,Manual,17657,44904
+VEH-0169,Toyota,Camry,2016,Negro,Gasolina,Automática,26393,15456
+VEH-0170,Nissan,Sentra,2010,Rojo,Gasolina,Automática,30695,48447
+VEH-0171,Volkswagen,Golf,2020,Rojo,Eléctrico,Automática,177941,24687
+VEH-0172,Nissan,Versa,2021,Gris Plata,Eléctrico,Automática,54472,38764
+VEH-0173,Nissan,Qashqai,2014,Verde,Diésel,Manual,125940,41828
+VEH-0174,Ford,Ranger,2011,Negro,Diésel,Automática,2338,45022
+VEH-0175,Volkswagen,Jetta,2014,Negro,Eléctrico,Manual,37460,34861
+VEH-0176,Kia,Rio,2015,Gris Plata,Híbrido,Automática,137635,23590
+VEH-0177,Toyota,Corolla,2017,Rojo,Diésel,Manual,168210,54120
+VEH-0178,Ford,Mustang,2022,Gris Plata,Gasolina,Automática,185247,21768
+VEH-0179,Hyundai,Kona,2019,Rojo,Híbrido,Manual,82675,38540
+VEH-0180,Nissan,X-Trail,2013,Rojo,Diésel,Automática,50375,15399
+VEH-0181,Hyundai,Kona,2018,Negro,Diésel,Manual,94535,17246
+VEH-0182,Chevrolet,Cruze,2014,Gris Plata,Eléctrico,Automática,128207,49219
+VEH-0183,Honda,HR-V,2013,Blanco,Gasolina,Automática,101115,28043
+VEH-0184,Ford,Explorer,2022,Rojo,Eléctrico,Manual,175981,16102
+VEH-0185,Kia,Rio,2015,Verde,Diésel,Automática,194461,43947
+VEH-0186,Nissan,Frontier,2021,Rojo,Híbrido,Manual,67133,48328
+VEH-0187,Ford,Mustang,2022,Blanco,Eléctrico,Automática,194970,39051
+VEH-0188,Hyundai,Kona,2024,Gris Plata,Diésel,Manual,3375,44834
+VEH-0189,Mercedes-Benz,Clase A,2016,Blanco,Diésel,Automática,65061,88110
+VEH-0190,Volkswagen,Tiguan,2017,Blanco,Eléctrico,Automática,17576,17924
+VEH-0191,Hyundai,Santa Fe,2012,Verde,Eléctrico,Automática,57237,18936
+VEH-0192,Chevrolet,Captiva,2017,Blanco,Eléctrico,Automática,187218,43256
+VEH-0193,Hyundai,Kona,2012,Negro,Eléctrico,Manual,108719,23134
+VEH-0194,BMW,Series 5,2016,Verde,Eléctrico,Automática,77098,44206
+VEH-0195,Toyota,Camry,2023,Negro,Híbrido,Automática,1712,32553
+VEH-0196,Volkswagen,Tiguan,2020,Gris Plata,Gasolina,Automática,117251,43363
+VEH-0197,Chevrolet,Silverado,2024,Negro,Gasolina,Manual,2887,46831
+VEH-0198,Ford,Ranger,2018,Verde,Híbrido,Automática,171254,42833
+VEH-0199,Chevrolet,Onix,2022,Blanco,Gasolina,Manual,38696,57865
+VEH-0200,BMW,X3,2019,Blanco,Diésel,Manual,164712,44147
+VEH-0201,Ford,Explorer,2011,Gris Plata,Híbrido,Manual,35818,29710
+VEH-0202,Honda,Civic,2015,Negro,Diésel,Manual,116186,50893
+VEH-0203,Volkswagen,Amarok,2014,Verde,Eléctrico,Automática,45159,20693
+VEH-0204,Chevrolet,Captiva,2013,Azul,Eléctrico,Manual,141606,21553
+VEH-0205,Ford,Mustang,2023,Rojo,Diésel,Manual,4614,25529
+VEH-0206,Kia,Picanto,2017,Negro,Diésel,Automática,77087,52096
+VEH-0207,Hyundai,Tucson,2015,Rojo,Eléctrico,Automática,37860,51044
+VEH-0208,Kia,Sorento,2018,Rojo,Gasolina,Manual,175930,53709
+VEH-0209,Honda,Fit,2020,Rojo,Gasolina,Automática,117094,49975
+VEH-0210,Ford,Focus,2013,Verde,Eléctrico,Manual,129006,16850
+VEH-0211,Volkswagen,Tiguan,2016,Verde,Gasolina,Manual,172201,37299
+VEH-0212,Ford,F-150,2017,Gris Plata,Diésel,Manual,131991,51087
+VEH-0213,Volkswagen,Jetta,2017,Blanco,Diésel,Manual,25200,39815
+VEH-0214,Kia,Cerato,2019,Azul,Diésel,Automática,57674,21846
+VEH-0215,Hyundai,Santa Fe,2010,Blanco,Gasolina,Automática,172844,39360
+VEH-0216,Nissan,Frontier,2016,Rojo,Gasolina,Automática,177867,38126
+VEH-0217,Toyota,Yaris,2014,Azul,Diésel,Automática,193639,28205
+VEH-0218,BMW,Series 3,2014,Negro,Gasolina,Manual,23329,89532
+VEH-0219,Ford,F-150,2024,Verde,Híbrido,Automática,3416,37249
+VEH-0220,Ford,Mustang,2020,Rojo,Híbrido,Manual,23267,16088
+VEH-0221,Nissan,Versa,2015,Verde,Eléctrico,Manual,45733,42602
+VEH-0222,Mercedes-Benz,Clase E,2022,Blanco,Eléctrico,Manual,144401,66362
+VEH-0223,Mercedes-Benz,Clase E,2011,Negro,Eléctrico,Automática,115746,80518
+VEH-0224,BMW,X3,2023,Negro,Híbrido,Manual,984,92481
+VEH-0225,Nissan,Frontier,2017,Rojo,Híbrido,Manual,165836,26501
+VEH-0226,Toyota,Corolla,2015,Verde,Gasolina,Automática,106172,56371
+VEH-0227,Nissan,Qashqai,2024,Negro,Eléctrico,Manual,4088,40515
+VEH-0228,BMW,Series 5,2015,Blanco,Híbrido,Manual,195627,68934
+VEH-0229,Kia,Sportage,2017,Negro,Eléctrico,Manual,58397,31395
+VEH-0230,Volkswagen,Golf,2015,Azul,Diésel,Manual,68144,32983
+VEH-0231,Hyundai,Elantra,2023,Verde,Híbrido,Manual,4298,52770
+VEH-0232,BMW,Series 3,2014,Azul,Eléctrico,Automática,123800,56512
+VEH-0233,Hyundai,Kona,2018,Verde,Híbrido,Automática,128468,59348
+VEH-0234,Volkswagen,Polo,2020,Blanco,Gasolina,Manual,43117,57646
+VEH-0235,Honda,Civic,2020,Verde,Híbrido,Manual,122437,59606
+VEH-0236,Ford,Explorer,2022,Azul,Gasolina,Automática,85295,63311
+VEH-0237,Nissan,Sentra,2013,Verde,Eléctrico,Manual,113079,54871
+VEH-0238,Toyota,Camry,2020,Blanco,Diésel,Manual,19338,32711
+VEH-0239,Mercedes-Benz,GLE,2011,Gris Plata,Diésel,Manual,91265,57436
+VEH-0240,Volkswagen,Polo,2017,Rojo,Eléctrico,Automática,193871,49719
+VEH-0241,Toyota,Camry,2015,Negro,Eléctrico,Manual,69470,28507
+VEH-0242,Kia,Sportage,2023,Negro,Gasolina,Automática,2183,15602
+VEH-0243,Ford,Mustang,2012,Verde,Híbrido,Manual,144614,52907
+VEH-0244,Hyundai,Tucson,2021,Azul,Diésel,Manual,63061,55342
+VEH-0245,Hyundai,Kona,2010,Negro,Diésel,Manual,19363,44330
+VEH-0246,Volkswagen,Jetta,2012,Verde,Diésel,Automática,178334,41848
+VEH-0247,Mercedes-Benz,Clase E,2013,Azul,Gasolina,Manual,155762,77783
+VEH-0248,Nissan,Versa,2016,Verde,Diésel,Automática,13149,45308
+VEH-0249,Chevrolet,Cruze,2012,Azul,Eléctrico,Manual,61057,47435
+VEH-0250,Mercedes-Benz,Clase E,2018,Negro,Gasolina,Manual,50972,92643
+VEH-0251,Chevrolet,Captiva,2012,Azul,Gasolina,Automática,27100,20842
+VEH-0252,Nissan,X-Trail,2024,Gris Plata,Eléctrico,Manual,521,22903
+VEH-0253,Kia,Picanto,2018,Negro,Diésel,Automática,172078,64298
+VEH-0254,Nissan,Frontier,2022,Blanco,Diésel,Automática,60435,21423
+VEH-0255,Mercedes-Benz,Clase C,2020,Gris Plata,Diésel,Manual,106819,90077
+VEH-0256,Chevrolet,Captiva,2019,Negro,Gasolina,Manual,136703,50890
+VEH-0257,Volkswagen,Jetta,2024,Azul,Híbrido,Automática,4344,45850
+VEH-0258,Toyota,Camry,2020,Gris Plata,Eléctrico,Manual,15724,52909
+VEH-0259,Chevrolet,Onix,2023,Negro,Gasolina,Manual,2212,38838
+VEH-0260,Chevrolet,Onix,2021,Rojo,Híbrido,Manual,8187,24971
+VEH-0261,Kia,Sportage,2018,Negro,Gasolina,Manual,64681,21855
+VEH-0262,Hyundai,Elantra,2020,Rojo,Gasolina,Manual,110712,22831
+VEH-0263,Chevrolet,Tracker,2014,Rojo,Eléctrico,Manual,78091,42483
+VEH-0264,Mercedes-Benz,Clase A,2023,Azul,Diésel,Manual,4509,91204
+VEH-0265,Honda,Accord,2011,Negro,Diésel,Manual,188818,24996
+VEH-0266,Volkswagen,Polo,2015,Negro,Diésel,Manual,22679,60253
+VEH-0267,Ford,F-150,2010,Gris Plata,Híbrido,Automática,62363,57014
+VEH-0268,Ford,Mustang,2022,Verde,Híbrido,Automática,108670,38859
+VEH-0269,Volkswagen,Golf,2015,Negro,Gasolina,Automática,141658,43821
+VEH-0270,Ford,Ranger,2014,Blanco,Eléctrico,Manual,162316,31397
+VEH-0271,Nissan,Frontier,2019,Gris Plata,Eléctrico,Automática,40904,29317
+VEH-0272,Volkswagen,Amarok,2023,Rojo,Eléctrico,Automática,1319,49573
+VEH-0273,Toyota,Camry,2017,Blanco,Eléctrico,Automática,137085,24746
+VEH-0274,BMW,X3,2017,Gris Plata,Gasolina,Automática,118620,92053
+VEH-0275,Chevrolet,Silverado,2012,Blanco,Diésel,Manual,157851,28564
+VEH-0276,Volkswagen,Polo,2022,Azul,Gasolina,Automática,65840,25227
+VEH-0277,Kia,Sorento,2022,Gris Plata,Diésel,Automática,66809,27434
+VEH-0278,Hyundai,Kona,2012,Gris Plata,Diésel,Manual,125589,54752
+VEH-0279,Ford,F-150,2022,Azul,Eléctrico,Manual,20157,62116
+VEH-0280,Toyota,Yaris,2021,Verde,Híbrido,Manual,5171,58022
+VEH-0281,Ford,Focus,2011,Gris Plata,Eléctrico,Manual,74530,47416
+VEH-0282,Kia,Cerato,2024,Azul,Gasolina,Manual,1930,37579
+VEH-0283,Toyota,Yaris,2017,Azul,Gasolina,Manual,159207,53494
+VEH-0284,Nissan,Sentra,2019,Blanco,Diésel,Manual,61416,60099
+VEH-0285,Nissan,Versa,2024,Blanco,Eléctrico,Manual,4163,29917
+VEH-0286,Volkswagen,Polo,2017,Gris Plata,Eléctrico,Automática,96778,20353
+VEH-0287,Chevrolet,Onix,2015,Negro,Híbrido,Automática,36027,38081
+VEH-0288,Honda,Fit,2011,Negro,Híbrido,Automática,105936,39587
+VEH-0289,Mercedes-Benz,Clase E,2010,Blanco,Diésel,Manual,22704,87000
+VEH-0290,Honda,HR-V,2023,Rojo,Gasolina,Manual,1733,32096
+VEH-0291,Hyundai,Kona,2016,Blanco,Diésel,Manual,66739,34604
+VEH-0292,Honda,Civic,2022,Verde,Eléctrico,Manual,195365,43471
+VEH-0293,Toyota,Hilux,2011,Verde,Híbrido,Manual,129283,28964
+VEH-0294,Nissan,Versa,2017,Verde,Eléctrico,Automática,189068,48090
+VEH-0295,Volkswagen,Tiguan,2020,Verde,Diésel,Manual,127963,56076
+VEH-0296,Ford,Explorer,2019,Gris Plata,Gasolina,Manual,100477,33521
+VEH-0297,Nissan,X-Trail,2024,Rojo,Diésel,Automática,3650,60318
+VEH-0298,Toyota,Hilux,2012,Rojo,Híbrido,Automática,135972,50949
+VEH-0299,Volkswagen,Amarok,2020,Gris Plata,Diésel,Manual,26592,26206
+VEH-0300,Ford,Explorer,2019,Negro,Híbrido,Manual,183492,32828
+VEH-0301,BMW,Series 1,2010,Verde,Eléctrico,Automática,1784,60315
+VEH-0302,Hyundai,Elantra,2020,Azul,Eléctrico,Manual,92782,53922
+VEH-0303,Kia,Cerato,2019,Blanco,Eléctrico,Automática,52052,64964
+VEH-0304,Toyota,Yaris,2022,Negro,Diésel,Automática,198548,28509
+VEH-0305,Hyundai,Kona,2010,Rojo,Híbrido,Manual,103463,52555
+VEH-0306,Volkswagen,Amarok,2014,Negro,Diésel,Manual,37896,59818
+VEH-0307,Volkswagen,Golf,2021,Blanco,Diésel,Automática,11689,55854
+VEH-0308,Honda,HR-V,2021,Verde,Híbrido,Manual,131854,47578
+VEH-0309,Mercedes-Benz,GLC,2021,Azul,Híbrido,Automática,164612,54312
+VEH-0310,Kia,Rio,2022,Rojo,Eléctrico,Manual,33223,51629
+VEH-0311,Hyundai,Accent,2012,Azul,Diésel,Manual,172530,59735
+VEH-0312,Volkswagen,Golf,2017,Blanco,Híbrido,Manual,116787,16199
+VEH-0313,Volkswagen,Jetta,2015,Negro,Híbrido,Automática,109591,20077
+VEH-0314,BMW,Series 5,2024,Blanco,Eléctrico,Automática,397,84647
+VEH-0315,Honda,HR-V,2020,Gris Plata,Diésel,Automática,125502,49781
+VEH-0316,Kia,Sportage,2015,Rojo,Eléctrico,Manual,145685,50828
+VEH-0317,Mercedes-Benz,Clase A,2022,Negro,Híbrido,Manual,81802,49582
+VEH-0318,BMW,Series 5,2021,Blanco,Eléctrico,Manual,157188,73836
+VEH-0319,Chevrolet,Onix,2014,Azul,Diésel,Manual,129683,23504
+VEH-0320,Mercedes-Benz,GLC,2020,Negro,Gasolina,Automática,193668,53867
+VEH-0321,Ford,F-150,2017,Rojo,Diésel,Automática,110899,23420
+VEH-0322,Honda,Civic,2013,Rojo,Gasolina,Automática,188847,24997
+VEH-0323,Volkswagen,Amarok,2013,Rojo,Eléctrico,Automática,186870,38562
+VEH-0324,Honda,HR-V,2020,Verde,Eléctrico,Automática,5236,45943
+VEH-0325,Honda,CR-V,2016,Rojo,Diésel,Manual,142151,47316
+VEH-0326,Nissan,Sentra,2018,Azul,Híbrido,Automática,118655,16612
+VEH-0327,Chevrolet,Onix,2011,Blanco,Híbrido,Automática,61865,53593
+VEH-0328,Nissan,Sentra,2021,Negro,Diésel,Manual,69901,64047
+VEH-0329,BMW,Series 1,2016,Blanco,Eléctrico,Automática,162502,58478
+VEH-0330,BMW,X3,2020,Gris Plata,Gasolina,Manual,195662,46115
+VEH-0331,Kia,Picanto,2020,Azul,Híbrido,Automática,183043,33117
+VEH-0332,Honda,HR-V,2011,Azul,Gasolina,Manual,111528,19792
+VEH-0333,Chevrolet,Onix,2022,Gris Plata,Diésel,Manual,186397,46130
+VEH-0334,Toyota,Yaris,2018,Negro,Gasolina,Automática,11759,57538
+VEH-0335,Hyundai,Santa Fe,2016,Azul,Híbrido,Manual,36292,48828
+VEH-0336,Ford,F-150,2019,Negro,Eléctrico,Manual,166237,35300
+VEH-0337,Volkswagen,Jetta,2011,Azul,Híbrido,Manual,89115,53184
+VEH-0338,Toyota,Yaris,2022,Gris Plata,Híbrido,Automática,99180,22005
+VEH-0339,Hyundai,Tucson,2017,Blanco,Diésel,Automática,67650,47043
+VEH-0340,Chevrolet,Tracker,2010,Azul,Diésel,Automática,54517,48429
+VEH-0341,Nissan,Frontier,2017,Negro,Gasolina,Manual,192490,15154
+VEH-0342,Ford,Explorer,2011,Blanco,Gasolina,Automática,182223,26822
+VEH-0343,Toyota,RAV4,2010,Azul,Híbrido,Automática,190395,38299
+VEH-0344,Kia,Rio,2017,Blanco,Eléctrico,Manual,45254,61800
+VEH-0345,Hyundai,Elantra,2015,Blanco,Eléctrico,Manual,5129,52169
+VEH-0346,Kia,Picanto,2021,Verde,Eléctrico,Manual,134337,35866
+VEH-0347,Toyota,RAV4,2017,Azul,Diésel,Automática,115976,55899
+VEH-0348,Volkswagen,Jetta,2014,Verde,Híbrido,Manual,115561,18436
+VEH-0349,Honda,HR-V,2022,Gris Plata,Eléctrico,Manual,191709,30028
+VEH-0350,Chevrolet,Captiva,2010,Rojo,Diésel,Manual,38780,51920
+VEH-0351,Ford,Focus,2016,Blanco,Diésel,Manual,90162,61735
+VEH-0352,Kia,Picanto,2022,Gris Plata,Gasolina,Automática,114291,16758
+VEH-0353,Kia,Rio,2022,Blanco,Híbrido,Manual,27327,42463
+VEH-0354,Hyundai,Elantra,2018,Azul,Eléctrico,Manual,81284,21121
+VEH-0355,Hyundai,Tucson,2011,Rojo,Eléctrico,Automática,93424,51124
+VEH-0356,Ford,Mustang,2021,Azul,Híbrido,Automática,113741,39745
+VEH-0357,Kia,Rio,2019,Negro,Diésel,Automática,149197,33476
+VEH-0358,Ford,Ranger,2012,Azul,Eléctrico,Manual,979,52691
+VEH-0359,Toyota,Camry,2023,Negro,Híbrido,Manual,141,40348
+VEH-0360,Kia,Rio,2010,Gris Plata,Eléctrico,Manual,44105,16237
+VEH-0361,Volkswagen,Polo,2010,Negro,Gasolina,Manual,163222,43121
+VEH-0362,Mercedes-Benz,Clase C,2024,Verde,Gasolina,Manual,3337,70632
+VEH-0363,Hyundai,Accent,2015,Negro,Diésel,Automática,137975,57606
+VEH-0364,Kia,Sorento,2024,Azul,Diésel,Automática,720,16032
+VEH-0365,Chevrolet,Cruze,2010,Rojo,Eléctrico,Manual,169342,36563
+VEH-0366,Ford,Mustang,2011,Verde,Híbrido,Automática,179531,63751
+VEH-0367,Ford,F-150,2021,Negro,Gasolina,Automática,43372,58182
+VEH-0368,BMW,Series 3,2014,Rojo,Eléctrico,Automática,21655,89754
+VEH-0369,BMW,X5,2020,Negro,Gasolina,Manual,71199,51344
+VEH-0370,Mercedes-Benz,GLC,2021,Verde,Diésel,Automática,127708,63805
+VEH-0371,Toyota,Camry,2023,Verde,Gasolina,Automática,1974,55174
+VEH-0372,Volkswagen,Amarok,2020,Rojo,Diésel,Manual,90853,31255
+VEH-0373,Toyota,Corolla,2019,Blanco,Eléctrico,Manual,178877,64588
+VEH-0374,BMW,X3,2016,Rojo,Híbrido,Manual,123428,88922
+VEH-0375,Toyota,Camry,2022,Verde,Híbrido,Automática,96082,25382
+VEH-0376,Hyundai,Elantra,2016,Negro,Eléctrico,Manual,187394,62200
+VEH-0377,Ford,Explorer,2018,Azul,Eléctrico,Automática,16184,18592
+VEH-0378,Honda,Fit,2016,Blanco,Gasolina,Automática,136187,28853
+VEH-0379,Kia,Sorento,2013,Gris Plata,Diésel,Manual,95030,24724
+VEH-0380,Toyota,Yaris,2017,Verde,Eléctrico,Manual,79525,20360
+VEH-0381,Chevrolet,Cruze,2022,Azul,Híbrido,Manual,46610,42647
+VEH-0382,Chevrolet,Captiva,2024,Azul,Gasolina,Manual,2384,62630
+VEH-0383,Hyundai,Kona,2015,Verde,Eléctrico,Automática,79846,30119
+VEH-0384,Nissan,Qashqai,2018,Blanco,Eléctrico,Manual,98113,21514
+VEH-0385,Toyota,Camry,2018,Gris Plata,Híbrido,Manual,4903,47780
+VEH-0386,Chevrolet,Tracker,2020,Blanco,Eléctrico,Automática,146630,28229
+VEH-0387,BMW,Series 3,2017,Azul,Eléctrico,Automática,136994,76600
+VEH-0388,Volkswagen,Tiguan,2012,Negro,Eléctrico,Manual,188009,55506
+VEH-0389,Nissan,Qashqai,2017,Blanco,Diésel,Manual,18444,63622
+VEH-0390,Mercedes-Benz,GLE,2015,Gris Plata,Híbrido,Automática,164946,40485
+VEH-0391,Kia,Sorento,2023,Verde,Eléctrico,Manual,4290,63023
+VEH-0392,Toyota,Corolla,2022,Azul,Eléctrico,Automática,157474,31355
+VEH-0393,Ford,Focus,2020,Negro,Diésel,Automática,63884,32440
+VEH-0394,Volkswagen,Jetta,2024,Verde,Híbrido,Manual,3114,38490
+VEH-0395,Kia,Rio,2018,Verde,Eléctrico,Automática,85634,42467
+VEH-0396,Honda,Fit,2024,Verde,Eléctrico,Manual,4933,18685
+VEH-0397,Volkswagen,Golf,2019,Negro,Gasolina,Automática,18830,48031
+VEH-0398,Honda,HR-V,2020,Negro,Gasolina,Manual,56520,24991
+VEH-0399,Nissan,Versa,2018,Negro,Diésel,Automática,93202,29183
+VEH-0400,Hyundai,Elantra,2020,Gris Plata,Eléctrico,Automática,106990,43247
+VEH-0401,Kia,Picanto,2023,Verde,Diésel,Manual,2596,23782
+VEH-0402,Mercedes-Benz,Clase E,2010,Blanco,Gasolina,Manual,129181,79470
+VEH-0403,Kia,Sorento,2019,Rojo,Híbrido,Manual,160607,19331
+VEH-0404,Hyundai,Elantra,2018,Azul,Eléctrico,Automática,76747,26930
+VEH-0405,Volkswagen,Tiguan,2017,Azul,Gasolina,Automática,131277,57453
+VEH-0406,Toyota,RAV4,2017,Negro,Híbrido,Automática,99345,64554
+VEH-0407,Chevrolet,Captiva,2015,Blanco,Híbrido,Manual,18952,21987
+VEH-0408,Toyota,Camry,2019,Blanco,Gasolina,Automática,41114,29880
+VEH-0409,Hyundai,Elantra,2010,Blanco,Híbrido,Manual,94028,17273
+VEH-0410,Honda,HR-V,2015,Gris Plata,Diésel,Manual,29571,22491
+VEH-0411,Chevrolet,Cruze,2024,Negro,Eléctrico,Automática,3493,51276
+VEH-0412,Honda,Accord,2022,Verde,Gasolina,Manual,133299,62071
+VEH-0413,Volkswagen,Tiguan,2015,Rojo,Diésel,Manual,162602,24299
+VEH-0414,Mercedes-Benz,Clase A,2024,Negro,Gasolina,Automática,3026,67987
+VEH-0415,Hyundai,Santa Fe,2020,Verde,Gasolina,Automática,179080,21001
+VEH-0416,Toyota,RAV4,2020,Azul,Diésel,Manual,102424,38931
+VEH-0417,Volkswagen,Golf,2014,Azul,Diésel,Manual,80083,32546
+VEH-0418,Kia,Sorento,2018,Negro,Gasolina,Automática,10555,34575
+VEH-0419,Honda,Accord,2014,Negro,Gasolina,Manual,57813,17911
+VEH-0420,Volkswagen,Jetta,2023,Gris Plata,Híbrido,Automática,1203,55162
+VEH-0421,Volkswagen,Golf,2020,Gris Plata,Gasolina,Manual,49861,48643
+VEH-0422,Toyota,RAV4,2020,Verde,Híbrido,Manual,72997,22492
+VEH-0423,Honda,HR-V,2023,Gris Plata,Gasolina,Automática,4040,35077
+VEH-0424,Ford,Focus,2014,Negro,Eléctrico,Automática,70161,20655
+VEH-0425,Hyundai,Santa Fe,2016,Gris Plata,Gasolina,Manual,127516,25146
+VEH-0426,Ford,Explorer,2023,Blanco,Eléctrico,Manual,4788,43939
+VEH-0427,Volkswagen,Polo,2020,Verde,Diésel,Automática,192345,42613
+VEH-0428,Mercedes-Benz,GLC,2017,Verde,Diésel,Automática,98721,56871
+VEH-0429,Ford,F-150,2017,Negro,Eléctrico,Automática,111711,45789
+VEH-0430,Toyota,Yaris,2019,Azul,Diésel,Automática,20672,40679
+VEH-0431,Toyota,RAV4,2020,Blanco,Eléctrico,Automática,189328,36976
+VEH-0432,Chevrolet,Cruze,2015,Rojo,Diésel,Automática,97581,20272
+VEH-0433,Volkswagen,Golf,2023,Blanco,Diésel,Automática,1430,55891
+VEH-0434,Mercedes-Benz,Clase A,2020,Rojo,Diésel,Automática,136635,40729
+VEH-0435,Volkswagen,Tiguan,2010,Azul,Diésel,Manual,90906,43646
+VEH-0436,Hyundai,Tucson,2022,Gris Plata,Gasolina,Manual,129012,41751
+VEH-0437,Ford,Ranger,2023,Negro,Híbrido,Automática,1924,32238
+VEH-0438,Mercedes-Benz,GLC,2019,Verde,Híbrido,Automática,191745,69409
+VEH-0439,BMW,Series 1,2012,Verde,Gasolina,Automática,130084,74395
+VEH-0440,BMW,Series 1,2022,Gris Plata,Eléctrico,Manual,58512,42124
+VEH-0441,Toyota,Corolla,2015,Negro,Híbrido,Automática,39049,34402
+VEH-0442,Hyundai,Kona,2023,Negro,Híbrido,Manual,3465,49780
+VEH-0443,Nissan,Frontier,2010,Gris Plata,Híbrido,Manual,53052,37720
+VEH-0444,Volkswagen,Polo,2024,Blanco,Híbrido,Automática,3570,29419
+VEH-0445,Honda,CR-V,2020,Azul,Gasolina,Automática,92473,20495
+VEH-0446,Chevrolet,Silverado,2010,Negro,Eléctrico,Automática,131433,63933
+VEH-0447,Honda,Fit,2011,Azul,Diésel,Manual,129874,40388
+VEH-0448,BMW,X5,2021,Verde,Gasolina,Automática,56692,70073
+VEH-0449,Mercedes-Benz,Clase E,2013,Blanco,Híbrido,Automática,133211,88354
+VEH-0450,Ford,Mustang,2018,Negro,Eléctrico,Manual,98551,32732
+VEH-0451,Honda,Fit,2022,Negro,Eléctrico,Automática,150725,42805
+VEH-0452,Kia,Rio,2014,Azul,Eléctrico,Manual,110221,59566
+VEH-0453,Hyundai,Accent,2018,Gris Plata,Gasolina,Automática,112871,55771
+VEH-0454,Kia,Sorento,2022,Azul,Híbrido,Manual,64119,27893
+VEH-0455,Volkswagen,Amarok,2024,Azul,Híbrido,Automática,1616,51352
+VEH-0456,Toyota,Hilux,2021,Rojo,Gasolina,Automática,173044,23284
+VEH-0457,Ford,Focus,2019,Verde,Híbrido,Automática,59973,58015
+VEH-0458,Volkswagen,Tiguan,2015,Verde,Híbrido,Automática,163467,36756
+VEH-0459,Volkswagen,Golf,2017,Blanco,Diésel,Manual,149065,20621
+VEH-0460,Mercedes-Benz,Clase E,2010,Azul,Diésel,Manual,125582,54531
+VEH-0461,Toyota,RAV4,2011,Blanco,Diésel,Automática,50131,20621
+VEH-0462,Chevrolet,Captiva,2017,Azul,Diésel,Automática,101726,32722
+VEH-0463,Kia,Rio,2021,Negro,Diésel,Manual,161064,46218
+VEH-0464,Ford,Ranger,2019,Negro,Gasolina,Manual,118377,54963
+VEH-0465,Nissan,Sentra,2015,Verde,Eléctrico,Manual,141366,36754
+VEH-0466,Kia,Picanto,2010,Rojo,Gasolina,Manual,107766,29340
+VEH-0467,Honda,CR-V,2014,Rojo,Eléctrico,Manual,106644,54372
+VEH-0468,Hyundai,Santa Fe,2023,Verde,Gasolina,Manual,2559,21283
+VEH-0469,Toyota,Camry,2014,Blanco,Diésel,Manual,84827,23315
+VEH-0470,Hyundai,Kona,2012,Gris Plata,Híbrido,Manual,30745,48708
+VEH-0471,Hyundai,Elantra,2023,Azul,Eléctrico,Automática,4626,31100
+VEH-0472,Volkswagen,Jetta,2019,Rojo,Híbrido,Automática,151119,47932
+VEH-0473,Nissan,Qashqai,2011,Verde,Gasolina,Manual,166503,50491
+VEH-0474,Hyundai,Tucson,2016,Rojo,Híbrido,Automática,77001,22571
+VEH-0475,Toyota,Camry,2015,Rojo,Diésel,Automática,173071,49260
+VEH-0476,Honda,CR-V,2010,Azul,Diésel,Manual,118349,58727
+VEH-0477,Mercedes-Benz,GLE,2018,Negro,Híbrido,Automática,173785,65442
+VEH-0478,Toyota,Camry,2018,Blanco,Híbrido,Automática,194990,28711
+VEH-0479,Mercedes-Benz,GLC,2012,Rojo,Diésel,Manual,21843,89460
+VEH-0480,Hyundai,Elantra,2020,Negro,Gasolina,Automática,58023,19168
+VEH-0481,Nissan,X-Trail,2012,Blanco,Gasolina,Automática,140681,30864
+VEH-0482,Honda,Fit,2021,Verde,Híbrido,Automática,185809,17345
+VEH-0483,Mercedes-Benz,GLC,2013,Blanco,Gasolina,Manual,64769,50797
+VEH-0484,BMW,Series 5,2024,Gris Plata,Eléctrico,Automática,2596,69268
+VEH-0485,Mercedes-Benz,GLE,2014,Gris Plata,Gasolina,Automática,102032,41774
+VEH-0486,Volkswagen,Golf,2010,Gris Plata,Híbrido,Automática,112192,59666
+VEH-0487,Kia,Rio,2017,Blanco,Diésel,Automática,169616,45168
+VEH-0488,Ford,Mustang,2015,Rojo,Eléctrico,Automática,9214,15948
+VEH-0489,Volkswagen,Golf,2024,Negro,Diésel,Automática,3406,45244
+VEH-0490,Nissan,Sentra,2022,Gris Plata,Gasolina,Automática,174488,51621
+VEH-0491,Nissan,Frontier,2015,Blanco,Diésel,Automática,116647,63506
+VEH-0492,Honda,CR-V,2019,Verde,Gasolina,Manual,156913,26961
+VEH-0493,Hyundai,Kona,2012,Rojo,Eléctrico,Manual,173061,44646
+VEH-0494,Volkswagen,Polo,2017,Negro,Gasolina,Manual,133118,38979
+VEH-0495,Honda,Fit,2010,Negro,Híbrido,Manual,191311,19451
+VEH-0496,Volkswagen,Polo,2023,Negro,Híbrido,Automática,4491,45989
+VEH-0497,Kia,Cerato,2014,Gris Plata,Diésel,Manual,157170,54786
+VEH-0498,Volkswagen,Tiguan,2015,Blanco,Eléctrico,Manual,161826,51509
+VEH-0499,Volkswagen,Golf,2017,Azul,Diésel,Manual,138462,30073
+VEH-0500,Toyota,Camry,2019,Verde,Diésel,Automática,14808,21134
+VEH-0501,Nissan,Sentra,2011,Blanco,Eléctrico,Automática,16643,56753
+VEH-0502,Nissan,Frontier,2011,Verde,Eléctrico,Automática,112371,56512
+VEH-0503,Mercedes-Benz,GLE,2018,Gris Plata,Eléctrico,Manual,7786,74335
+VEH-0504,BMW,Series 3,2020,Blanco,Diésel,Automática,63264,60642
+VEH-0505,Toyota,Camry,2019,Negro,Diésel,Manual,114021,52843
+VEH-0506,Volkswagen,Jetta,2021,Negro,Híbrido,Automática,76679,54599
+VEH-0507,Toyota,Corolla,2012,Gris Plata,Gasolina,Manual,110450,22814
+VEH-0508,Chevrolet,Cruze,2023,Blanco,Diésel,Manual,2088,53057
+VEH-0509,Honda,CR-V,2017,Negro,Híbrido,Manual,139697,48724
+VEH-0510,Ford,Focus,2024,Verde,Diésel,Automática,4876,40020
+VEH-0511,Mercedes-Benz,Clase E,2011,Blanco,Eléctrico,Manual,160884,61825
+VEH-0512,BMW,X3,2021,Blanco,Gasolina,Automática,91485,81228
+VEH-0513,Honda,Accord,2012,Verde,Gasolina,Automática,6436,44812
+VEH-0514,Toyota,Corolla,2011,Negro,Eléctrico,Automática,152043,47911
+VEH-0515,Ford,Focus,2011,Negro,Gasolina,Automática,92168,54867
+VEH-0516,Volkswagen,Amarok,2017,Gris Plata,Híbrido,Automática,155390,24508
+VEH-0517,Kia,Cerato,2011,Negro,Diésel,Automática,168690,36900
+VEH-0518,Kia,Rio,2010,Gris Plata,Eléctrico,Manual,157693,62761
+VEH-0519,Hyundai,Elantra,2010,Gris Plata,Híbrido,Manual,59232,59534
+VEH-0520,Kia,Rio,2017,Blanco,Diésel,Manual,63929,55070
+VEH-0521,Nissan,Qashqai,2011,Negro,Híbrido,Manual,152599,56024
+VEH-0522,Nissan,Versa,2021,Rojo,Híbrido,Manual,149958,59885
+VEH-0523,Toyota,Yaris,2018,Blanco,Diésel,Manual,135638,51177
+VEH-0524,Volkswagen,Polo,2015,Azul,Gasolina,Manual,38870,63720
+VEH-0525,Mercedes-Benz,GLC,2019,Negro,Diésel,Manual,94460,46510
+VEH-0526,Ford,F-150,2020,Rojo,Diésel,Manual,188210,59242
+VEH-0527,BMW,Series 3,2010,Rojo,Eléctrico,Automática,139465,69412
+VEH-0528,Ford,Mustang,2014,Verde,Diésel,Automática,140661,20981
+VEH-0529,Honda,CR-V,2022,Azul,Híbrido,Manual,4188,22431
+VEH-0530,Nissan,Qashqai,2013,Rojo,Híbrido,Automática,86874,18316
+VEH-0531,BMW,Series 5,2024,Gris Plata,Diésel,Manual,840,92500
+VEH-0532,Ford,Mustang,2011,Gris Plata,Diésel,Automática,57443,32228
+VEH-0533,Toyota,Corolla,2016,Negro,Eléctrico,Automática,87000,44072
+VEH-0534,Mercedes-Benz,GLE,2020,Blanco,Gasolina,Automática,36441,60092
+VEH-0535,BMW,Series 5,2021,Rojo,Gasolina,Manual,112584,82227
+VEH-0536,Volkswagen,Jetta,2017,Azul,Eléctrico,Manual,108546,37547
+VEH-0537,Hyundai,Kona,2017,Verde,Diésel,Manual,197772,22740
+VEH-0538,Mercedes-Benz,GLC,2017,Blanco,Diésel,Manual,191293,45377
+VEH-0539,Volkswagen,Tiguan,2011,Azul,Diésel,Automática,106949,55479
+VEH-0540,BMW,X3,2010,Gris Plata,Híbrido,Manual,32474,70004
+VEH-0541,Volkswagen,Tiguan,2010,Negro,Gasolina,Automática,29831,31122
+VEH-0542,Volkswagen,Golf,2012,Blanco,Híbrido,Automática,196418,55411
+VEH-0543,Hyundai,Tucson,2019,Negro,Diésel,Automática,44328,20040
+VEH-0544,Volkswagen,Tiguan,2015,Gris Plata,Eléctrico,Automática,15110,44658
+VEH-0545,Nissan,Sentra,2014,Verde,Eléctrico,Automática,144286,17266
+VEH-0546,Volkswagen,Amarok,2011,Gris Plata,Híbrido,Manual,39936,30571
+VEH-0547,Chevrolet,Silverado,2019,Blanco,Híbrido,Manual,136177,34451
+VEH-0548,Honda,Accord,2017,Gris Plata,Diésel,Automática,23330,39511
+VEH-0549,Mercedes-Benz,GLC,2021,Azul,Gasolina,Manual,65382,80879
+VEH-0550,Nissan,Frontier,2019,Gris Plata,Eléctrico,Automática,2519,15968
+VEH-0551,Nissan,Qashqai,2016,Negro,Eléctrico,Manual,79283,50545
+VEH-0552,Honda,Civic,2010,Negro,Gasolina,Manual,11893,64523
+VEH-0553,Nissan,Qashqai,2012,Gris Plata,Diésel,Automática,115884,63762
+VEH-0554,Volkswagen,Tiguan,2022,Gris Plata,Gasolina,Automática,20242,28674
+VEH-0555,Chevrolet,Tracker,2020,Negro,Gasolina,Automática,37794,38162
+VEH-0556,Hyundai,Santa Fe,2019,Blanco,Híbrido,Automática,166959,27108
+VEH-0557,Toyota,Camry,2010,Gris Plata,Eléctrico,Manual,46442,16180
+VEH-0558,Ford,Explorer,2016,Gris Plata,Eléctrico,Manual,158830,45596
+VEH-0559,BMW,Series 1,2018,Blanco,Eléctrico,Automática,70965,57105
+VEH-0560,Chevrolet,Onix,2019,Negro,Diésel,Manual,78618,39328
+VEH-0561,Honda,HR-V,2019,Verde,Híbrido,Automática,53684,26973
+VEH-0562,Honda,Accord,2010,Verde,Gasolina,Manual,29301,49145
+VEH-0563,Volkswagen,Tiguan,2013,Negro,Eléctrico,Manual,28329,57530
+VEH-0564,Honda,Fit,2019,Gris Plata,Diésel,Automática,84263,21615
+VEH-0565,Hyundai,Santa Fe,2024,Rojo,Eléctrico,Manual,1738,17381
+VEH-0566,Nissan,Qashqai,2017,Negro,Gasolina,Automática,98662,35861
+VEH-0567,BMW,X3,2021,Rojo,Gasolina,Automática,166220,58510
+VEH-0568,Volkswagen,Tiguan,2012,Azul,Gasolina,Automática,174487,16619
+VEH-0569,Volkswagen,Tiguan,2014,Gris Plata,Eléctrico,Automática,66579,26936
+VEH-0570,Nissan,Qashqai,2023,Azul,Diésel,Manual,4398,58975
+VEH-0571,Hyundai,Elantra,2016,Negro,Eléctrico,Manual,94150,23090
+VEH-0572,Honda,Fit,2014,Gris Plata,Diésel,Manual,87592,55191
+VEH-0573,Kia,Cerato,2021,Verde,Híbrido,Manual,149747,15602
+VEH-0574,Mercedes-Benz,Clase A,2017,Verde,Híbrido,Manual,24239,77650
+VEH-0575,Kia,Picanto,2010,Rojo,Híbrido,Automática,194831,44565
+VEH-0576,Chevrolet,Silverado,2010,Azul,Diésel,Manual,98870,27112
+VEH-0577,Hyundai,Santa Fe,2015,Rojo,Diésel,Manual,107161,21797
+VEH-0578,BMW,Series 1,2017,Negro,Eléctrico,Automática,148406,54067
+VEH-0579,Volkswagen,Jetta,2019,Verde,Híbrido,Manual,164687,19544
+VEH-0580,Hyundai,Santa Fe,2020,Rojo,Eléctrico,Manual,62729,49636
+VEH-0581,Chevrolet,Onix,2015,Rojo,Eléctrico,Automática,51765,61745
+VEH-0582,Ford,Explorer,2011,Rojo,Eléctrico,Manual,172605,23458
+VEH-0583,Volkswagen,Polo,2013,Negro,Eléctrico,Automática,144962,29292
+VEH-0584,Toyota,Corolla,2013,Verde,Diésel,Manual,53465,16675
+VEH-0585,Chevrolet,Tracker,2014,Negro,Híbrido,Automática,198551,24500
+VEH-0586,BMW,X3,2023,Rojo,Eléctrico,Manual,1729,61468
+VEH-0587,Chevrolet,Onix,2019,Gris Plata,Eléctrico,Automática,8108,15747
+VEH-0588,Honda,Fit,2010,Azul,Híbrido,Automática,46497,31862
+VEH-0589,Nissan,X-Trail,2015,Gris Plata,Diésel,Automática,5597,45341
+VEH-0590,Kia,Sorento,2013,Azul,Gasolina,Manual,170890,43604
+VEH-0591,Toyota,Hilux,2024,Gris Plata,Híbrido,Automática,3185,17818
+VEH-0592,Toyota,Camry,2013,Blanco,Híbrido,Automática,165704,61956
+VEH-0593,BMW,X3,2014,Negro,Gasolina,Manual,93767,84907
+VEH-0594,Chevrolet,Captiva,2010,Verde,Híbrido,Manual,63121,23096
+VEH-0595,Mercedes-Benz,Clase C,2017,Azul,Eléctrico,Automática,57340,70708
+VEH-0596,Toyota,Yaris,2018,Blanco,Eléctrico,Automática,146052,30619
+VEH-0597,Ford,Ranger,2014,Verde,Gasolina,Manual,199845,23379
+VEH-0598,Honda,HR-V,2013,Rojo,Híbrido,Manual,77038,30019
+VEH-0599,BMW,Series 1,2021,Verde,Híbrido,Manual,71933,63109
+VEH-0600,Volkswagen,Golf,2017,Blanco,Diésel,Manual,79140,38585
+VEH-0601,Toyota,RAV4,2014,Gris Plata,Híbrido,Manual,37972,55368
+VEH-0602,Ford,Explorer,2019,Rojo,Híbrido,Manual,27194,47315
+VEH-0603,Toyota,Camry,2020,Negro,Eléctrico,Manual,79789,49645
+VEH-0604,Ford,Ranger,2023,Blanco,Híbrido,Manual,3055,61019
+VEH-0605,Ford,Focus,2010,Azul,Eléctrico,Automática,22504,33101
+VEH-0606,Chevrolet,Onix,2012,Gris Plata,Gasolina,Manual,104486,43109
+VEH-0607,Ford,F-150,2024,Rojo,Gasolina,Manual,166,41714
+VEH-0608,Honda,HR-V,2017,Azul,Diésel,Automática,112118,27752
+VEH-0609,Honda,Civic,2015,Blanco,Gasolina,Automática,93263,22553
+VEH-0610,Chevrolet,Onix,2012,Blanco,Híbrido,Manual,126509,39747
+VEH-0611,Hyundai,Accent,2012,Gris Plata,Diésel,Automática,138797,34667
+VEH-0612,Chevrolet,Cruze,2020,Gris Plata,Diésel,Automática,153176,41009
+VEH-0613,Toyota,Hilux,2012,Azul,Eléctrico,Automática,100317,57667
+VEH-0614,Kia,Sorento,2016,Gris Plata,Gasolina,Manual,186173,40751
+VEH-0615,Nissan,Sentra,2015,Blanco,Gasolina,Manual,19315,32363
+VEH-0616,Hyundai,Santa Fe,2022,Blanco,Gasolina,Manual,18030,56557
+VEH-0617,Toyota,Hilux,2010,Azul,Diésel,Manual,25462,29886
+VEH-0618,Kia,Cerato,2011,Rojo,Híbrido,Automática,128291,39653
+VEH-0619,Hyundai,Kona,2012,Verde,Eléctrico,Automática,14709,26836
+VEH-0620,Chevrolet,Silverado,2017,Negro,Diésel,Manual,96485,42507
+VEH-0621,BMW,Series 3,2016,Blanco,Diésel,Manual,99639,62623
+VEH-0622,BMW,Series 5,2014,Blanco,Eléctrico,Manual,174642,42161
+VEH-0623,Chevrolet,Onix,2015,Rojo,Híbrido,Automática,40108,23098
+VEH-0624,Kia,Rio,2013,Negro,Diésel,Automática,23325,27482
+VEH-0625,Toyota,Yaris,2019,Rojo,Eléctrico,Automática,70824,35161
+VEH-0626,Honda,Civic,2013,Rojo,Diésel,Automática,122005,28703
+VEH-0627,Hyundai,Tucson,2023,Negro,Diésel,Automática,1098,50912
+VEH-0628,Volkswagen,Polo,2024,Negro,Híbrido,Automática,3889,17553
+VEH-0629,Mercedes-Benz,Clase A,2021,Gris Plata,Diésel,Manual,64682,65975
+VEH-0630,Kia,Picanto,2024,Gris Plata,Híbrido,Manual,33,26201
+VEH-0631,Volkswagen,Jetta,2021,Verde,Híbrido,Automática,180747,41049
+VEH-0632,BMW,X5,2023,Negro,Gasolina,Manual,1439,88647
+VEH-0633,Kia,Rio,2020,Gris Plata,Diésel,Automática,135491,31514
+VEH-0634,Kia,Picanto,2021,Gris Plata,Híbrido,Manual,86169,16890
+VEH-0635,Nissan,Qashqai,2018,Gris Plata,Eléctrico,Manual,64252,16678
+VEH-0636,Honda,Fit,2014,Blanco,Gasolina,Automática,33331,40558
+VEH-0637,Toyota,Corolla,2022,Gris Plata,Híbrido,Manual,148502,22211
+VEH-0638,BMW,Series 3,2010,Negro,Híbrido,Manual,159702,87818
+VEH-0639,Mercedes-Benz,GLE,2013,Rojo,Eléctrico,Manual,164640,84144
+VEH-0640,Honda,HR-V,2024,Azul,Gasolina,Automática,4995,17926
+VEH-0641,Honda,HR-V,2021,Rojo,Gasolina,Manual,52345,22260
+VEH-0642,Chevrolet,Silverado,2021,Rojo,Gasolina,Manual,174690,26579
+VEH-0643,Mercedes-Benz,Clase E,2022,Gris Plata,Diésel,Automática,157223,48225
+VEH-0644,Volkswagen,Jetta,2014,Verde,Híbrido,Manual,63032,24793
+VEH-0645,Chevrolet,Onix,2023,Rojo,Diésel,Automática,169,46007
+VEH-0646,Toyota,Camry,2021,Negro,Diésel,Automática,150768,56169
+VEH-0647,Kia,Picanto,2015,Azul,Gasolina,Manual,116848,23655
+VEH-0648,Mercedes-Benz,GLC,2013,Gris Plata,Diésel,Manual,53270,94072
+VEH-0649,BMW,X5,2019,Gris Plata,Híbrido,Automática,28387,76926
+VEH-0650,Chevrolet,Cruze,2013,Gris Plata,Eléctrico,Automática,148017,17316
+VEH-0651,Ford,Explorer,2010,Rojo,Híbrido,Automática,93049,64600
+VEH-0652,Honda,HR-V,2014,Blanco,Diésel,Manual,35507,16649
+VEH-0653,Nissan,X-Trail,2011,Verde,Diésel,Manual,100857,61686
+VEH-0654,Nissan,Frontier,2022,Negro,Híbrido,Automática,60143,63997
+VEH-0655,Kia,Rio,2019,Gris Plata,Diésel,Manual,2257,52940
+VEH-0656,BMW,X3,2018,Azul,Diésel,Manual,37849,79996
+VEH-0657,Ford,F-150,2023,Negro,Diésel,Manual,1601,28497
+VEH-0658,Mercedes-Benz,GLC,2010,Rojo,Eléctrico,Automática,5376,66479
+VEH-0659,Honda,Fit,2011,Verde,Eléctrico,Manual,170110,24178
+VEH-0660,Honda,CR-V,2014,Azul,Híbrido,Manual,77834,15778
+VEH-0661,Toyota,Corolla,2010,Gris Plata,Diésel,Automática,17135,43020
+VEH-0662,Toyota,Yaris,2021,Blanco,Eléctrico,Manual,192557,56352
+VEH-0663,BMW,X3,2011,Rojo,Diésel,Manual,1788,69765
+VEH-0664,Chevrolet,Onix,2017,Negro,Híbrido,Manual,21843,52785
+VEH-0665,Honda,CR-V,2018,Negro,Híbrido,Automática,163130,38434
+VEH-0666,Nissan,Frontier,2013,Negro,Eléctrico,Automática,93192,29323
+VEH-0667,Ford,F-150,2023,Blanco,Eléctrico,Manual,1557,63513
+VEH-0668,Ford,Focus,2014,Azul,Eléctrico,Manual,4518,29445
+VEH-0669,BMW,Series 3,2016,Blanco,Híbrido,Automática,41141,71047
+VEH-0670,Nissan,X-Trail,2017,Blanco,Gasolina,Automática,141429,35078
+VEH-0671,Hyundai,Accent,2018,Gris Plata,Diésel,Automática,196174,29719
+VEH-0672,Kia,Sorento,2022,Rojo,Diésel,Manual,147433,26395
+VEH-0673,Ford,Focus,2011,Azul,Híbrido,Automática,40694,37765
+VEH-0674,BMW,Series 5,2022,Rojo,Diésel,Automática,154295,94124
+VEH-0675,BMW,Series 1,2013,Rojo,Híbrido,Manual,52370,42491
+VEH-0676,Nissan,Sentra,2021,Blanco,Diésel,Automática,110380,41279
+VEH-0677,BMW,X3,2021,Gris Plata,Eléctrico,Automática,90201,44793
+VEH-0678,Honda,Civic,2010,Verde,Gasolina,Automática,59403,18864
+VEH-0679,Toyota,Corolla,2011,Blanco,Diésel,Automática,195449,48540
+VEH-0680,Ford,F-150,2016,Negro,Diésel,Automática,144601,62925
+VEH-0681,Toyota,Yaris,2010,Negro,Diésel,Manual,32309,37332
+VEH-0682,Mercedes-Benz,Clase A,2022,Gris Plata,Gasolina,Automática,176200,72850
+VEH-0683,Volkswagen,Jetta,2017,Blanco,Gasolina,Manual,101110,53493
+VEH-0684,Hyundai,Elantra,2016,Rojo,Gasolina,Automática,17465,64334
+VEH-0685,Kia,Cerato,2022,Blanco,Eléctrico,Manual,195771,48296
+VEH-0686,BMW,X5,2020,Verde,Eléctrico,Manual,97239,48126
+VEH-0687,BMW,Series 5,2017,Gris Plata,Diésel,Manual,166043,92553
+VEH-0688,Hyundai,Elantra,2018,Blanco,Gasolina,Automática,32440,29075
+VEH-0689,Kia,Sorento,2021,Azul,Híbrido,Manual,131235,17471
+VEH-0690,Kia,Sportage,2020,Blanco,Eléctrico,Automática,105474,37623
+VEH-0691,BMW,Series 3,2010,Azul,Híbrido,Manual,188903,89832
+VEH-0692,Kia,Rio,2018,Azul,Diésel,Manual,127862,45174
+VEH-0693,Kia,Rio,2022,Azul,Eléctrico,Manual,11829,52932
+VEH-0694,Ford,Mustang,2019,Azul,Híbrido,Automática,92168,53138
+VEH-0695,Chevrolet,Captiva,2015,Azul,Gasolina,Automática,6095,27264
+VEH-0696,BMW,X5,2023,Gris Plata,Gasolina,Manual,2313,40380
+VEH-0697,Nissan,Frontier,2018,Azul,Diésel,Manual,106696,18294
+VEH-0698,Kia,Rio,2019,Negro,Diésel,Automática,156455,33896
+VEH-0699,Chevrolet,Captiva,2016,Rojo,Híbrido,Manual,197539,30750
+VEH-0700,Toyota,Hilux,2023,Verde,Híbrido,Automática,2149,27497
